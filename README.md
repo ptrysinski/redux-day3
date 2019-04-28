@@ -1,3 +1,5 @@
+App fetches user data from randomuser.me on click. Made with redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
